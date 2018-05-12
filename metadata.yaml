@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/559
     wikipedia: http://en.wikipedia.org/wiki/Irvin_S._Cobb
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27212#The-Life-of-the-Party
 gutenberg_issued: '2008-11-09'
 gutenberg_type: Text
 identifiers:

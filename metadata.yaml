@@ -1,0 +1,39 @@
+_repo: The-Life-of-the-Party_27212
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Preston, James M.
+    birthdate: 1873
+    deathdate: 1962
+    gutenberg_agent_id: '26605'
+    url: http://www.gutenberg.org/2009/agents/26605
+covers:
+- cover_type: archival
+  image_path: 27212-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Cobb, Irvin S. (Irvin Shrewsbury)
+    alias: Cobb, Irvin Shrewsbury
+    birthdate: 1876
+    deathdate: 1944
+    gutenberg_agent_id: '559'
+    url: http://www.gutenberg.org/2009/agents/559
+    wikipedia: http://en.wikipedia.org/wiki/Irvin_S._Cobb
+description: ''
+gutenberg_issued: '2008-11-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27212'
+  lccn: '19010468'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lawyers -- Fiction'
+- !lcsh 'New York (N.Y.) -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Humorous stories'
+- !lcsh 'Costume -- Fiction'
+title: The Life of the Party
+url: http://www.gutenberg.org/ebooks/27212
